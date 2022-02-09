@@ -1,0 +1,4 @@
+- configure your ansible inventory
+- Run your ansible playbook <site1.yaml>  to configure the cluster.
+- ssh into your master node and su to ansible
+- Perform the upgrade plan.
